@@ -1,0 +1,104 @@
+.h3 {
+  font-size: 20px;
+}
+
+
+
+.heading_div {
+  background-color: grey;
+  color: white;
+  width: 85%;
+  box-shadow: 5px 5px 40px grey;
+  border-radius: 20px;
+  text-align: left;
+}
+
+#b {
+  border-radius: 20px;
+  width: 350px;
+  margin-left: 35px;
+  float: left;
+}
+
+.span {
+  color: purple;
+  font-weight: bolder;
+}
+
+.output {
+  position: relative;
+  bottom: 250px;
+  margin: 50px;
+  border-radius: 20px;
+}
+
+.ou {
+  margin-top: -500px;
+  border-radius: 20px;
+}
+
+#i {
+  color: white;
+}
+
+#c {
+  font-family: "Lexend Tera", sans-serif;
+  font-weight: bolder;
+}
+
+.test_image_and_result {
+  background: grey;
+  border-radius: 10px;
+}
+
+#t {
+  color: white;
+}
+
+b {
+  color: purple;
+}
+
+#g {
+  background: white;
+  border-radius: 15px;
+  line-height: 2;
+}
+
+.test_image_and_result2, .test_image_and_result3, .test_image_and_result4, .test_image_and_result5
+{
+  background: grey;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.img-responsive1, .img-responsive2, .img-responsive3, .img-responsive4, .img-responsive5
+{
+  border-radius: 10px;
+  padding-bottom: 10px;
+  width: 370px;
+}
+
+.result
+{
+    box-shadow: 5px 5px 18px grey;
+    letter-spacing: 2px;
+    background: #F2BAC9;
+    border-radius: 20px;
+    margin-top: 30px;
+    padding: 20px;
+    border: 2px solid grey;
+}
+
+.copy_right_footer {
+  position: fixed;
+  color: black;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  line-height: 2.5;
+  text-align: center;
+  font-family: 'Special Elite', cursive;
+  font-weight: bold;
+  
+}
